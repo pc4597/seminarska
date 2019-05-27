@@ -1,4 +1,6 @@
 # ROBOTSKI VID - seminarska naloga
+#Določanje poze čašice/ponvice pri totalni artroplastiki kolka
+#Primož Čuvan in Ana Mandeljc
 
 Programi:
 - Seminarska/Avtomatsko merjenje.py (GLAVNI)
